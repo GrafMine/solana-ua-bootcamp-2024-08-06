@@ -1,5 +1,5 @@
-practice-1/ts-practice-1/node_modules
-.idea
-practice-1/ts-practice-1/.env
-practice-1/ts-practice-1/.package-lock.json
 *wallet.json
+.idea
+.env
+practice-1/ts-practice-1/node_modules
+practice-1/ts-practice-1/.package-lock.json
